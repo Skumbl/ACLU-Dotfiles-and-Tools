@@ -6,7 +6,7 @@ Welcome ACLU developers! This repository serves as a collaborative space for sha
 
 - **[username]**: Each contributor has their own folder named after their username. Inside this folder, you can store your personal dotfiles and tools.
 - **[dotfiles]**: This folder is meant for storing configuration files for various programs and utilities. (be sure to note or include dependencies) 
-- **[tools]**: Here, you can find useful scripts, software, or links to tools that can improve our development efficiency.(be sure to note or include dependencies) 
+- **[tools]**: Here, you can find useful scripts, software, or links to tools that can improve our development efficiency. (be sure to note or include dependencies) 
 
 ## How to Contribute (bash example)
 
